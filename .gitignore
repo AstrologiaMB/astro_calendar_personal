@@ -1,0 +1,20 @@
+# Archivos generados automáticamente por Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales locales
+venv/
+env/
+
+# Archivos de configuración locales
+.vscode/
+*.DS_Store
+*.env
+
+# Archivos de logs
+*.log
+
+# Otros (puedes ajustar según sea necesario)
+node_modules/
+.idea/
