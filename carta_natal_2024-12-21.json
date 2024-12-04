@@ -1,0 +1,259 @@
+{
+  "date_time": "2024-12-21T12:00:00",
+  "latitude": -34.6083696,
+  "longitude": -58.4440583,
+  "planets": {
+    "Sun": {
+      "longitude": 90.11871119225299,
+      "latitude": -4.335497320146712e-05,
+      "distance": 0.9836977124214172,
+      "sign": "Cáncer",
+      "degrees": 0.11871119225298798,
+      "retrograde": false
+    },
+    "Moon": {
+      "longitude": 164.48883664915414,
+      "latitude": 1.53031114061735,
+      "distance": 0.0026490401942282915,
+      "sign": "Virgo",
+      "degrees": 14.488836649154138,
+      "retrograde": false
+    },
+    "Mercury": {
+      "longitude": 161.8691312533741,
+      "latitude": 6.441949691645002,
+      "distance": 0.9365633130073547,
+      "sign": "Virgo",
+      "degrees": 11.869131253374093,
+      "retrograde": false
+    },
+    "Venus": {
+      "longitude": 34.648463659396654,
+      "latitude": -2.284384302110856,
+      "distance": 0.8277053236961365,
+      "sign": "Tauro",
+      "degrees": 4.648463659396654,
+      "retrograde": false
+    },
+    "Mars": {
+      "longitude": 104.30827209860357,
+      "latitude": 1.5068774019052709,
+      "distance": 0.6925752758979797,
+      "sign": "Cáncer",
+      "degrees": 14.308272098603567,
+      "retrograde": false
+    },
+    "Jupiter": {
+      "longitude": 77.44292511165233,
+      "latitude": -0.5150515986234091,
+      "distance": 4.125125408172607,
+      "sign": "Géminis",
+      "degrees": 17.44292511165233,
+      "retrograde": false
+    },
+    "Saturn": {
+      "longitude": 349.4395266930758,
+      "latitude": -2.0501086001360074,
+      "distance": 9.86329460144043,
+      "sign": "Piscis",
+      "degrees": 19.439526693075777,
+      "retrograde": false
+    },
+    "Uranus": {
+      "longitude": 55.62787805361648,
+      "latitude": -0.24541627411966863,
+      "distance": 18.752588272094727,
+      "sign": "Tauro",
+      "degrees": 25.627878053616477,
+      "retrograde": false
+    },
+    "Neptune": {
+      "longitude": 359.0697928944703,
+      "latitude": -1.2931968547121262,
+      "distance": 29.9287166595459,
+      "sign": "Piscis",
+      "degrees": 29.06979289447031,
+      "retrograde": false
+    },
+    "Pluto": {
+      "longitude": 301.57506363124384,
+      "latitude": -3.3447718110855704,
+      "distance": 36.0061149597168,
+      "sign": "Acuario",
+      "degrees": 1.575063631243836,
+      "retrograde": false
+    }
+  },
+  "houses": {
+    "1": {
+      "longitude": 228.02151448595282,
+      "sign": "Escorpio",
+      "degrees": 18.02151448595282
+    },
+    "2": {
+      "longitude": 198.02151448595282,
+      "sign": "Libra",
+      "degrees": 18.02151448595282
+    },
+    "3": {
+      "longitude": 168.02151448595282,
+      "sign": "Virgo",
+      "degrees": 18.02151448595282
+    },
+    "4": {
+      "longitude": 138.02151448595282,
+      "sign": "Leo",
+      "degrees": 18.02151448595282
+    },
+    "5": {
+      "longitude": 108.02151448595282,
+      "sign": "Cáncer",
+      "degrees": 18.02151448595282
+    },
+    "6": {
+      "longitude": 78.02151448595282,
+      "sign": "Géminis",
+      "degrees": 18.02151448595282
+    },
+    "7": {
+      "longitude": 48.02151448595282,
+      "sign": "Tauro",
+      "degrees": 18.02151448595282
+    },
+    "8": {
+      "longitude": 18.02151448595282,
+      "sign": "Aries",
+      "degrees": 18.02151448595282
+    },
+    "9": {
+      "longitude": 348.0215144859528,
+      "sign": "Piscis",
+      "degrees": 18.02151448595282
+    },
+    "10": {
+      "longitude": 318.0215144859528,
+      "sign": "Acuario",
+      "degrees": 18.02151448595282
+    },
+    "11": {
+      "longitude": 288.0215144859528,
+      "sign": "Capricornio",
+      "degrees": 18.02151448595282
+    },
+    "12": {
+      "longitude": 258.0215144859528,
+      "sign": "Sagitario",
+      "degrees": 18.02151448595282
+    }
+  },
+  "angles": {
+    "ASC": {
+      "longitude": 228.02151448595282,
+      "sign": "Escorpio",
+      "degrees": 18.02151448595282
+    },
+    "MC": {
+      "longitude": 212.10610260548722,
+      "sign": "Escorpio",
+      "degrees": 2.106102605487223
+    }
+  },
+  "aspects": [
+    {
+      "point1": "Sun",
+      "point2": "Neptune",
+      "aspect": "Cuadratura",
+      "orb": 1.0489182977826772
+    },
+    {
+      "point1": "Moon",
+      "point2": "Mercury",
+      "aspect": "Conjunción",
+      "orb": 2.619705395780045
+    },
+    {
+      "point1": "Moon",
+      "point2": "Mars",
+      "aspect": "Sextil",
+      "orb": 0.18056455055057086
+    },
+    {
+      "point1": "Moon",
+      "point2": "Jupiter",
+      "aspect": "Cuadratura",
+      "orb": 2.9540884624981913
+    },
+    {
+      "point1": "Moon",
+      "point2": "Saturn",
+      "aspect": "Oposición",
+      "orb": 4.9506900439216395
+    },
+    {
+      "point1": "Mercury",
+      "point2": "Venus",
+      "aspect": "Trígono",
+      "orb": 7.2206675939774385
+    },
+    {
+      "point1": "Mercury",
+      "point2": "Mars",
+      "aspect": "Sextil",
+      "orb": 2.439140845229474
+    },
+    {
+      "point1": "Mercury",
+      "point2": "Jupiter",
+      "aspect": "Cuadratura",
+      "orb": 5.573793858278236
+    },
+    {
+      "point1": "Mercury",
+      "point2": "Saturn",
+      "aspect": "Oposición",
+      "orb": 7.570395439701684
+    },
+    {
+      "point1": "Venus",
+      "point2": "Pluto",
+      "aspect": "Cuadratura",
+      "orb": 3.0734000281528324
+    },
+    {
+      "point1": "Mars",
+      "point2": "Saturn",
+      "aspect": "Trígono",
+      "orb": 5.13125459447221
+    },
+    {
+      "point1": "Jupiter",
+      "point2": "Saturn",
+      "aspect": "Cuadratura",
+      "orb": 1.9966015814234197
+    },
+    {
+      "point1": "Uranus",
+      "point2": "Neptune",
+      "aspect": "Sextil",
+      "orb": 3.4419148408538263
+    },
+    {
+      "point1": "Uranus",
+      "point2": "Pluto",
+      "aspect": "Trígono",
+      "orb": 5.9471855776273514
+    },
+    {
+      "point1": "Neptune",
+      "point2": "Pluto",
+      "aspect": "Sextil",
+      "orb": 2.505270736773525
+    }
+  ],
+  "location": {
+    "latitude": -34.6083696,
+    "longitude": -58.4440583,
+    "name": "Buenos Aires",
+    "timezone": "America/Argentina/Buenos_Aires"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "birth_time": "2024-01-01T12:00:00+00:00",
+  "location": {
+    "latitude": -34.6083696,
+    "longitude": -58.4440583,
+    "name": "Buenos Aires",
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  "planets": {
+    "Sun": {
+      "longitude": 100.55583447049027,
+      "sign": "Cancer",
+      "position": "10°33'",
+      "retrograde": false
+    },
+    "Moon": {
+      "longitude": 161.9089649166136,
+      "sign": "Virgo",
+      "position": "11°54'",
+      "retrograde": false
+    },
+    "Mercury": {
+      "longitude": 146.78327877318858,
+      "sign": "Leo",
+      "position": "26°46'",
+      "retrograde": false
+    },
+    "Venus": {
+      "longitude": 187.2563296812862,
+      "sign": "Libra",
+      "position": "7°15'",
+      "retrograde": false
+    },
+    "Mars": {
+      "longitude": 259.1831940192362,
+      "sign": "Sagittarius",
+      "position": "19°10'",
+      "retrograde": false
+    },
+    "Jupiter": {
+      "longitude": 45.88363307044739,
+      "sign": "Taurus",
+      "position": "15°53'",
+      "retrograde": false
+    },
+    "Saturn": {
+      "longitude": 337.9066703172392,
+      "sign": "Pisces",
+      "position": "7°54'",
+      "retrograde": false
+    },
+    "Uranus": {
+      "longitude": 51.61068180270596,
+      "sign": "Taurus",
+      "position": "21°36'",
+      "retrograde": false
+    },
+    "Neptune": {
+      "longitude": 356.9045136445495,
+      "sign": "Pisces",
+      "position": "26°54'",
+      "retrograde": false
+    },
+    "Pluto": {
+      "longitude": 299.9000553599466,
+      "sign": "Capricorn",
+      "position": "29°54'",
+      "retrograde": false
+    }
+  },
+  "angles": {
+    "ASC": {
+      "longitude": 219.74793268521316,
+      "sign": "Scorpio",
+      "position": "9°44'"
+    },
+    "MC": {
+      "longitude": 222.20002497123664,
+      "sign": "Scorpio",
+      "position": "12°12'"
+    }
+  },
+  "houses": {
+    "1": {
+      "longitude": 219.74793268521316,
+      "sign": "Scorpio",
+      "position": "9°44'"
+    },
+    "2": {
+      "longitude": 249.74793268521316,
+      "sign": "Sagittarius",
+      "position": "9°44'"
+    },
+    "3": {
+      "longitude": 279.7479326852132,
+      "sign": "Capricorn",
+      "position": "9°44'"
+    },
+    "4": {
+      "longitude": 309.7479326852132,
+      "sign": "Aquarius",
+      "position": "9°44'"
+    },
+    "5": {
+      "longitude": 339.7479326852132,
+      "sign": "Pisces",
+      "position": "9°44'"
+    },
+    "6": {
+      "longitude": 9.747932685213186,
+      "sign": "Aries",
+      "position": "9°44'"
+    },
+    "7": {
+      "longitude": 39.747932685213186,
+      "sign": "Taurus",
+      "position": "9°44'"
+    },
+    "8": {
+      "longitude": 69.74793268521319,
+      "sign": "Gemini",
+      "position": "9°44'"
+    },
+    "9": {
+      "longitude": 99.74793268521319,
+      "sign": "Cancer",
+      "position": "9°44'"
+    },
+    "10": {
+      "longitude": 129.7479326852132,
+      "sign": "Leo",
+      "position": "9°44'"
+    },
+    "11": {
+      "longitude": 159.7479326852132,
+      "sign": "Virgo",
+      "position": "9°44'"
+    },
+    "12": {
+      "longitude": 189.7479326852132,
+      "sign": "Libra",
+      "position": "9°44'"
+    }
+  },
+  "points": {
+    "Node": {
+      "longitude": 161.9089649166136,
+      "sign": "Virgo",
+      "position": "11°54'"
+    },
+    "Lilith": {
+      "longitude": 281.9089649166136,
+      "sign": "Capricorn",
+      "position": "11°54'"
+    }
+  }
+}

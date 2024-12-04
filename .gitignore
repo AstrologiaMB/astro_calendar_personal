@@ -18,3 +18,5 @@ env/
 # Otros (puedes ajustar según sea necesario)
 node_modules/
 .idea/
+immanuel-python/
+

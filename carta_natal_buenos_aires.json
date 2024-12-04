@@ -1,0 +1,172 @@
+{
+  "points": {
+    "Sun": {
+      "longitude": 280.5484846761654,
+      "latitude": 0.00014691269252540352,
+      "distance": 0.9833134091133068,
+      "speed": 0.0,
+      "sign": "Capricorn",
+      "position": "10°32'",
+      "retrograde": false
+    },
+    "Moon": {
+      "longitude": 161.90673628534162,
+      "latitude": 3.1826564496938827,
+      "distance": 0.002706331988840259,
+      "speed": 0.0,
+      "sign": "Virgo",
+      "position": "11°54'",
+      "retrograde": false
+    },
+    "Mercury": {
+      "longitude": 262.2120102083977,
+      "latitude": 3.034927131567419,
+      "distance": 0.787207345015341,
+      "speed": 0.0,
+      "sign": "Sagittarius",
+      "position": "22°12'",
+      "retrograde": false
+    },
+    "Venus": {
+      "longitude": 243.22043828582744,
+      "latitude": 1.9348802608418323,
+      "distance": 1.185047398439561,
+      "speed": 0.0,
+      "sign": "Sagittarius",
+      "position": "3°13'",
+      "retrograde": false
+    },
+    "Mars": {
+      "longitude": 267.67916690510236,
+      "latitude": -0.5553818036144929,
+      "distance": 2.4222837996131763,
+      "speed": 0.0,
+      "sign": "Sagittarius",
+      "position": "27°40'",
+      "retrograde": false
+    },
+    "Jupiter": {
+      "longitude": 35.584376031134255,
+      "latitude": -1.1829015200593072,
+      "distance": 4.488801909479848,
+      "speed": 0.0,
+      "sign": "Taurus",
+      "position": "5°35'",
+      "retrograde": false
+    },
+    "Saturn": {
+      "longitude": 333.28795375073287,
+      "latitude": -1.6335341124000322,
+      "distance": 10.301315786534026,
+      "speed": 0.0,
+      "sign": "Pisces",
+      "position": "3°17'",
+      "retrograde": false
+    },
+    "Uranus": {
+      "longitude": 49.37306615182936,
+      "latitude": -0.30592817564582875,
+      "distance": 18.982053730800672,
+      "speed": 0.0,
+      "sign": "Taurus",
+      "position": "19°22'",
+      "retrograde": false
+    },
+    "Neptune": {
+      "longitude": 355.0834151238481,
+      "latitude": -1.2369197880283034,
+      "distance": 30.150973928116827,
+      "speed": 0.0,
+      "sign": "Pisces",
+      "position": "25°05'",
+      "retrograde": false
+    },
+    "Pluto": {
+      "longitude": 299.37313126372635,
+      "latitude": -2.7678197206695527,
+      "distance": 35.85121813864341,
+      "speed": 0.0,
+      "sign": "Capricorn",
+      "position": "29°22'",
+      "retrograde": false
+    },
+    "Asc": {
+      "longitude": 320.25185290116457,
+      "sign": "Aquarius",
+      "position": "20°15'"
+    },
+    "Mc": {
+      "longitude": 224.6625374672234,
+      "sign": "Scorpio",
+      "position": "14°39'"
+    }
+  },
+  "houses": {
+    "1": {
+      "longitude": 320.25185290116457,
+      "sign": "Aquarius",
+      "position": "20°15'"
+    },
+    "2": {
+      "longitude": 343.86459669003085,
+      "sign": "Pisces",
+      "position": "13°51'"
+    },
+    "3": {
+      "longitude": 12.06948545298996,
+      "sign": "Aries",
+      "position": "12°04'"
+    },
+    "4": {
+      "longitude": 44.66253746722339,
+      "sign": "Taurus",
+      "position": "14°39'"
+    },
+    "5": {
+      "longitude": 78.8437386931812,
+      "sign": "Gemini",
+      "position": "18°50'"
+    },
+    "6": {
+      "longitude": 111.15380693977761,
+      "sign": "Cancer",
+      "position": "21°09'"
+    },
+    "7": {
+      "longitude": 140.25185290116457,
+      "sign": "Leo",
+      "position": "20°15'"
+    },
+    "8": {
+      "longitude": 163.8645966900308,
+      "sign": "Virgo",
+      "position": "13°51'"
+    },
+    "9": {
+      "longitude": 192.06948545298997,
+      "sign": "Libra",
+      "position": "12°04'"
+    },
+    "10": {
+      "longitude": 224.6625374672234,
+      "sign": "Scorpio",
+      "position": "14°39'"
+    },
+    "11": {
+      "longitude": 258.8437386931812,
+      "sign": "Sagittarius",
+      "position": "18°50'"
+    },
+    "12": {
+      "longitude": 291.1538069397776,
+      "sign": "Capricorn",
+      "position": "21°09'"
+    }
+  },
+  "location": {
+    "latitude": -34.6083696,
+    "longitude": -58.4440583,
+    "name": "Buenos Aires",
+    "timezone": "America/Argentina/Buenos_Aires"
+  }
+}

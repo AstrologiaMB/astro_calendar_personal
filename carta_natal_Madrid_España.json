@@ -1,0 +1,172 @@
+{
+  "points": {
+    "Sun": {
+      "longitude": 280.5060254694679,
+      "latitude": 0.0001480819417946917,
+      "distance": 0.9833137667529342,
+      "speed": 0.0,
+      "sign": "Capricorn",
+      "position": "10°30'",
+      "retrograde": false
+    },
+    "Moon": {
+      "longitude": 161.41444742122167,
+      "latitude": 3.216082781080365,
+      "distance": 0.0027062784689563632,
+      "speed": 0.0,
+      "sign": "Virgo",
+      "position": "11°24'",
+      "retrograde": false
+    },
+    "Mercury": {
+      "longitude": 262.21626951372383,
+      "latitude": 3.0376427029476254,
+      "distance": 0.7863945567600921,
+      "speed": 0.0,
+      "sign": "Sagittarius",
+      "position": "22°12'",
+      "retrograde": false
+    },
+    "Venus": {
+      "longitude": 243.16975195650576,
+      "latitude": 1.9361359977110524,
+      "distance": 1.1847860336371072,
+      "speed": 0.0,
+      "sign": "Sagittarius",
+      "position": "3°10'",
+      "retrograde": false
+    },
+    "Mars": {
+      "longitude": 267.6482593713658,
+      "latitude": -0.5549763371884816,
+      "distance": 2.422410956565784,
+      "speed": 0.0,
+      "sign": "Sagittarius",
+      "position": "27°38'",
+      "retrograde": false
+    },
+    "Jupiter": {
+      "longitude": 35.58417897059047,
+      "latitude": -1.1831147638972894,
+      "distance": 4.488192502695905,
+      "speed": 0.0,
+      "sign": "Taurus",
+      "position": "5°35'",
+      "retrograde": false
+    },
+    "Saturn": {
+      "longitude": 333.2842450887585,
+      "latitude": -1.6335837791106487,
+      "distance": 10.300766185475796,
+      "speed": 0.0,
+      "sign": "Pisces",
+      "position": "3°17'",
+      "retrograde": false
+    },
+    "Uranus": {
+      "longitude": 49.373963840302274,
+      "latitude": -0.30594318860692743,
+      "distance": 18.98149883918241,
+      "speed": 0.0,
+      "sign": "Taurus",
+      "position": "19°22'",
+      "retrograde": false
+    },
+    "Neptune": {
+      "longitude": 355.08279804337747,
+      "latitude": -1.236942939623995,
+      "distance": 30.15027707147122,
+      "speed": 0.0,
+      "sign": "Pisces",
+      "position": "25°04'",
+      "retrograde": false
+    },
+    "Pluto": {
+      "longitude": 299.371836156563,
+      "latitude": -2.767779733520955,
+      "distance": 35.850956387209976,
+      "speed": 0.0,
+      "sign": "Capricorn",
+      "position": "29°22'",
+      "retrograde": false
+    },
+    "Asc": {
+      "longitude": 346.1050131740837,
+      "sign": "Pisces",
+      "position": "16°06'"
+    },
+    "Mc": {
+      "longitude": 262.559978190936,
+      "sign": "Sagittarius",
+      "position": "22°33'"
+    }
+  },
+  "houses": {
+    "1": {
+      "longitude": 346.1050131740837,
+      "sign": "Pisces",
+      "position": "16°06'"
+    },
+    "2": {
+      "longitude": 30.83531706496843,
+      "sign": "Taurus",
+      "position": "0°50'"
+    },
+    "3": {
+      "longitude": 60.15450748648028,
+      "sign": "Gemini",
+      "position": "0°09'"
+    },
+    "4": {
+      "longitude": 82.55997819093602,
+      "sign": "Gemini",
+      "position": "22°33'"
+    },
+    "5": {
+      "longitude": 103.7497443257725,
+      "sign": "Cancer",
+      "position": "13°44'"
+    },
+    "6": {
+      "longitude": 128.70930339463075,
+      "sign": "Leo",
+      "position": "8°42'"
+    },
+    "7": {
+      "longitude": 166.10501317408375,
+      "sign": "Virgo",
+      "position": "16°06'"
+    },
+    "8": {
+      "longitude": 210.83531706496842,
+      "sign": "Scorpio",
+      "position": "0°50'"
+    },
+    "9": {
+      "longitude": 240.15450748648027,
+      "sign": "Sagittarius",
+      "position": "0°09'"
+    },
+    "10": {
+      "longitude": 262.559978190936,
+      "sign": "Sagittarius",
+      "position": "22°33'"
+    },
+    "11": {
+      "longitude": 283.7497443257725,
+      "sign": "Capricorn",
+      "position": "13°44'"
+    },
+    "12": {
+      "longitude": 308.70930339463075,
+      "sign": "Aquarius",
+      "position": "8°42'"
+    }
+  },
+  "location": {
+    "latitude": 40.4167047,
+    "longitude": -3.7035825,
+    "name": "Madrid, España",
+    "timezone": "Europe/Madrid"
+  }
+}
