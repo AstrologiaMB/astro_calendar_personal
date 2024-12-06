@@ -1,0 +1,69 @@
+{
+  "datos_usuario": {
+    "hora_local": "1964-12-26T21:12:00",
+    "lat": -34.6083696,
+    "lon": -58.4440583,
+    "zona_horaria": "America/Argentina/Buenos_Aires",
+    "lugar": "Buenos Aires, argentina"
+  },
+  "periodo_analisis": {
+    "inicio": "2024-01-01T00:00:00+00:00",
+    "fin": "2024-12-31T00:00:00+00:00"
+  },
+  "eclipses": [
+    {
+      "fecha_utc": "2024-04-08T18:20:48.517041+00:00",
+      "tipo": "ECLIPSE_SOLAR",
+      "posicion": {
+        "longitud": 19.4004067363732,
+        "signo": "Aries",
+        "grado": 19.4004067363732
+      },
+      "casa_activada": {
+        "numero": 9,
+        "cuspide": 12.154777461482126,
+        "siguiente_cuspide": 42.51604398989265,
+        "signo": "Aries"
+      },
+      "aspectos": [
+        {
+          "planeta": "Moon",
+          "tipo": "opposition",
+          "orbe": 0.13193447875801212
+        }
+      ],
+      "nodos": {
+        "distancia_nodo_norte": 63.555232760391974,
+        "distancia_nodo_sur": 116.44476723960804,
+        "conjuncion_nodo": false
+      }
+    },
+    {
+      "fecha_utc": "2024-10-02T18:49:13.544375+00:00",
+      "tipo": "ECLIPSE_SOLAR",
+      "posicion": {
+        "longitud": 190.06337248284498,
+        "signo": "Libra",
+        "grado": 10.063372482844983
+      },
+      "casa_activada": {
+        "numero": 2,
+        "cuspide": 153.34827846143907,
+        "siguiente_cuspide": 192.15477746148213,
+        "signo": "Virgo"
+      },
+      "aspectos": [
+        {
+          "planeta": "Sun",
+          "tipo": "square",
+          "orbe": -4.784319237261599
+        }
+      ],
+      "nodos": {
+        "distancia_nodo_norte": 107.10773298607981,
+        "distancia_nodo_sur": 72.89226701392019,
+        "conjuncion_nodo": false
+      }
+    }
+  ]
+}

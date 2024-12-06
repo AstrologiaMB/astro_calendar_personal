@@ -4,8 +4,10 @@ Módulo para el cálculo de cartas natales usando nuestra implementación local 
 from datetime import datetime
 from typing import Dict, Any
 from zoneinfo import ZoneInfo
+import swisseph as swe
 from ..core.location import Location
 from ..immanuel import Subject, Natal
+from ..utils.time_utils import julian_day
 
 def local_to_utc(local_time: datetime, timezone: str) -> datetime:
     """Convierte hora local a UTC."""
@@ -28,6 +30,22 @@ def format_coords(lat: float, lon: float) -> tuple[str, str]:
     lat_str = f"{abs(lat):.4f}{'s' if lat < 0 else 'n'}"
     lon_str = f"{abs(lon):.4f}{'w' if lon < 0 else 'e'}"
     return lat_str, lon_str
+
+def get_zodiac_sign(longitude: float) -> str:
+    """Obtiene el signo zodiacal para una longitud dada."""
+    signs = [
+        'Aries', 'Taurus', 'Gemini', 'Cancer', 'Leo', 'Virgo',
+        'Libra', 'Scorpio', 'Sagittarius', 'Capricorn', 'Aquarius', 'Pisces'
+    ]
+    sign_num = int(longitude / 30)
+    return signs[sign_num]
+
+def format_position(longitude: float) -> str:
+    """Formatea una posición zodiacal en grados y minutos."""
+    total_degrees = longitude % 30
+    degrees = int(total_degrees)
+    minutes = int((total_degrees - degrees) * 60)
+    return f"{degrees}°{minutes:02d}'"
 
 def calcular_carta_natal(datos_usuario: Dict[str, Any]) -> Dict[str, Any]:
     """
@@ -63,6 +81,36 @@ def calcular_carta_natal(datos_usuario: Dict[str, Any]) -> Dict[str, Any]:
         
         # Obtener resultado como diccionario
         result = natal_chart.to_dict()
+        
+        # Calcular nodos lunares usando Swiss Ephemeris
+        jd = julian_day(utc_time)
+        
+        # Nodo Norte
+        node_data = swe.calc_ut(jd, swe.TRUE_NODE)[0]
+        node_lon = node_data[0]
+        
+        # Agregar nodos a los puntos
+        result['points']['North Node'] = {
+            'longitude': node_lon,
+            'latitude': 0.0,
+            'distance': 0.0,
+            'speed': 0.0,
+            'sign': get_zodiac_sign(node_lon),
+            'position': format_position(node_lon),
+            'retrograde': False
+        }
+        
+        # Nodo Sur (opuesto al Norte)
+        south_node_lon = (node_lon + 180) % 360
+        result['points']['South Node'] = {
+            'longitude': south_node_lon,
+            'latitude': 0.0,
+            'distance': 0.0,
+            'speed': 0.0,
+            'sign': get_zodiac_sign(south_node_lon),
+            'position': format_position(south_node_lon),
+            'retrograde': False
+        }
         
         # Agregar información adicional
         result['location'] = {

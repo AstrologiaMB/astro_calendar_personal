@@ -1,0 +1,211 @@
+{
+  "datos_natal": {
+    "hora_local": "1964-12-26T21:12:00",
+    "lat": -34.6083696,
+    "lon": -58.4440583,
+    "zona_horaria": "America/Argentina/Buenos_Aires",
+    "lugar": "buenos aires, argentina"
+  },
+  "eventos": [
+    {
+      "fecha_utc": "2024-01-25 17:53:57.068240+00:00",
+      "tipo": "EventType.LUNA_LLENA",
+      "signo": "Leo",
+      "grado": 5.244776995332984,
+      "casa": 1,
+      "descripcion": "Luna llena en Leo 5.24\u00b0 en Casa 1"
+    },
+    {
+      "fecha_utc": "2024-02-24 12:30:22.256644+00:00",
+      "tipo": "EventType.LUNA_LLENA",
+      "signo": "Virgo",
+      "grado": 5.383569819794616,
+      "casa": 2,
+      "descripcion": "Luna llena en Virgo 5.38\u00b0 en Casa 2"
+    },
+    {
+      "fecha_utc": "2024-03-25 07:00:16.416817+00:00",
+      "tipo": "EventType.LUNA_LLENA",
+      "signo": "Libra",
+      "grado": 5.120062156189306,
+      "casa": 2,
+      "descripcion": "Luna llena en Libra 5.12\u00b0 en Casa 2"
+    },
+    {
+      "fecha_utc": "2024-04-23 23:48:55.940052+00:00",
+      "tipo": "EventType.LUNA_LLENA",
+      "signo": "Escorpio",
+      "grado": 4.299108441892912,
+      "casa": 3,
+      "descripcion": "Luna llena en Escorpio 4.30\u00b0 en Casa 3"
+    },
+    {
+      "fecha_utc": "2024-05-23 13:53:05.253572+00:00",
+      "tipo": "EventType.LUNA_LLENA",
+      "signo": "Sagitario",
+      "grado": 2.919394895405617,
+      "casa": 4,
+      "descripcion": "Luna llena en Sagitario 2.92\u00b0 en Casa 4"
+    },
+    {
+      "fecha_utc": "2024-06-22 01:07:48.966109+00:00",
+      "tipo": "EventType.LUNA_LLENA",
+      "signo": "Capricornio",
+      "grado": 1.1231287417354565,
+      "casa": 6,
+      "descripcion": "Luna llena en Capricornio 1.12\u00b0 en Casa 6"
+    },
+    {
+      "fecha_utc": "2024-07-21 10:17:04.647693+00:00",
+      "tipo": "EventType.LUNA_LLENA",
+      "signo": "Capricornio",
+      "grado": 29.145838439435067,
+      "casa": 7,
+      "descripcion": "Luna llena en Capricornio 29.15\u00b0 en Casa 7"
+    },
+    {
+      "fecha_utc": "2024-08-19 18:25:44.062308+00:00",
+      "tipo": "EventType.LUNA_LLENA",
+      "signo": "Acuario",
+      "grado": 27.252393372309484,
+      "casa": 7,
+      "descripcion": "Luna llena en Acuario 27.25\u00b0 en Casa 7"
+    },
+    {
+      "fecha_utc": "2024-09-18 02:34:24.104426+00:00",
+      "tipo": "EventType.LUNA_LLENA",
+      "signo": "Piscis",
+      "grado": 25.678467231323793,
+      "casa": 8,
+      "descripcion": "Luna llena en Piscis 25.68\u00b0 en Casa 8"
+    },
+    {
+      "fecha_utc": "2024-10-17 11:26:21.318675+00:00",
+      "tipo": "EventType.LUNA_LLENA",
+      "signo": "Aries",
+      "grado": 24.583031207884723,
+      "casa": 9,
+      "descripcion": "Luna llena en Aries 24.58\u00b0 en Casa 9"
+    },
+    {
+      "fecha_utc": "2024-11-15 21:28:28.524933+00:00",
+      "tipo": "EventType.LUNA_LLENA",
+      "signo": "Tauro",
+      "grado": 24.01184393284663,
+      "casa": 10,
+      "descripcion": "Luna llena en Tauro 24.01\u00b0 en Casa 10"
+    },
+    {
+      "fecha_utc": "2024-12-15 09:01:38.391655+00:00",
+      "tipo": "EventType.LUNA_LLENA",
+      "signo": "G\u00e9minis",
+      "grado": 23.88062213314892,
+      "casa": 11,
+      "descripcion": "Luna llena en G\u00e9minis 23.88\u00b0 en Casa 11"
+    },
+    {
+      "fecha_utc": "2024-01-11 11:57:21.833088+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "Capricornio",
+      "grado": 20.740187313914646,
+      "casa": 6,
+      "descripcion": "Luna nueva en Capricornio 20.74\u00b0 en Casa 6"
+    },
+    {
+      "fecha_utc": "2024-02-09 22:59:07.641554+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "Acuario",
+      "grado": 20.68231280574662,
+      "casa": 7,
+      "descripcion": "Luna nueva en Acuario 20.68\u00b0 en Casa 7"
+    },
+    {
+      "fecha_utc": "2024-03-10 09:00:23.041995+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "Piscis",
+      "grado": 20.27981597910508,
+      "casa": 8,
+      "descripcion": "Luna nueva en Piscis 20.28\u00b0 en Casa 8"
+    },
+    {
+      "fecha_utc": "2024-04-08 18:20:48.517041+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "Aries",
+      "grado": 19.400406736431144,
+      "casa": 9,
+      "descripcion": "Luna nueva en Aries 19.40\u00b0 en Casa 9"
+    },
+    {
+      "fecha_utc": "2024-05-08 03:21:52.990414+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "Tauro",
+      "grado": 18.03450140041206,
+      "casa": 10,
+      "descripcion": "Luna nueva en Tauro 18.03\u00b0 en Casa 10"
+    },
+    {
+      "fecha_utc": "2024-06-06 12:37:40.732162+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "G\u00e9minis",
+      "grado": 16.295216483912455,
+      "casa": 11,
+      "descripcion": "Luna nueva en G\u00e9minis 16.30\u00b0 en Casa 11"
+    },
+    {
+      "fecha_utc": "2024-07-05 22:57:19.841964+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "C\u00e1ncer",
+      "grado": 14.388788740392727,
+      "casa": 12,
+      "descripcion": "Luna nueva en C\u00e1ncer 14.39\u00b0 en Casa 12"
+    },
+    {
+      "fecha_utc": "2024-08-04 11:12:58.878050+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "Leo",
+      "grado": 12.56705842013588,
+      "casa": 1,
+      "descripcion": "Luna nueva en Leo 12.57\u00b0 en Casa 1"
+    },
+    {
+      "fecha_utc": "2024-09-03 01:55:30.959437+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "Virgo",
+      "grado": 11.069861401908298,
+      "casa": 2,
+      "descripcion": "Luna nueva en Virgo 11.07\u00b0 en Casa 2"
+    },
+    {
+      "fecha_utc": "2024-10-02 18:49:13.544375+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "Libra",
+      "grado": 10.063372482844755,
+      "casa": 2,
+      "descripcion": "Luna nueva en Libra 10.06\u00b0 en Casa 2"
+    },
+    {
+      "fecha_utc": "2024-11-01 12:47:06.158964+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "Escorpio",
+      "grado": 9.589296092669514,
+      "casa": 3,
+      "descripcion": "Luna nueva en Escorpio 9.59\u00b0 en Casa 3"
+    },
+    {
+      "fecha_utc": "2024-12-01 06:21:22.862058+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "Sagitario",
+      "grado": 9.548479663892863,
+      "casa": 5,
+      "descripcion": "Luna nueva en Sagitario 9.55\u00b0 en Casa 5"
+    },
+    {
+      "fecha_utc": "2024-12-30 22:26:44.657398+00:00",
+      "tipo": "EventType.LUNA_NUEVA",
+      "signo": "Capricornio",
+      "grado": 9.727926001282128,
+      "casa": 6,
+      "descripcion": "Luna nueva en Capricornio 9.73\u00b0 en Casa 6"
+    }
+  ]
+}
